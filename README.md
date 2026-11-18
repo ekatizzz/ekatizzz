@@ -9,7 +9,7 @@
   <br/>
 </p>
 
-I'm Katya, a 3rd-year student at **HSE University (Nizhny Novgorod)**, majoring in **Computer Science and Technologies**. I'm interested in software development, artificial intelligence, machine learning and digital product design. I enjoy building practical applications and combining engineering with creative problem-solving.
+I'm Katya, a 3rd-year student at **HSE University (Nizhny Novgorod)**, majoring in **Computer Science and Technologies** and specializing in the **Sber Recommender Systems & AI (RecSys & AI) track**. I'm interested in software development, artificial intelligence, machine learning and digital product design. I enjoy building practical applications and combining engineering with creative problem-solving.
 
 #### Recent Projects 🌱
 
