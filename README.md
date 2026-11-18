@@ -13,7 +13,7 @@ I'm Katya, a 3rd-year student at **HSE University (Nizhny Novgorod)**, majoring 
 
 #### Recent Projects 🌱
 
-- [**Corporate Knowledge Assistant**](https://github.com/Yushhhik/CorporateKnowledgeAssistant) 🤖 — AI-powered corporate Telegram assistant developed for INNOGLOBALHACK 2026: RAG-based document search, LLM integration, feedback collection and interaction analytics  
+- [**Corporate Knowledge Assistant**](https://github.com/ekatizzz/CorporateKnowledgeAssistant) 🤖 — AI-powered corporate Telegram assistant developed for INNOGLOBALHACK 2026: RAG-based document search, LLM integration, feedback collection and interaction analytics  
   [Repo](https://github.com/Yushhhik/CorporateKnowledgeAssistant) 💻
 
 - [**Predicting the Next Product**](https://github.com/ekatizzz/Predicting_the_next_product) 🛒 — Session-based recommendation system: graph-based item transitions and next-product prediction — *Hit@10 0.5142 vs 0.384 baseline*  
