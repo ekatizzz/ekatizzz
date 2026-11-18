@@ -34,6 +34,8 @@ I'm Katya, a 3rd-year student at **HSE University (Nizhny Novgorod)**, majoring 
 - [Java Lab 3](https://github.com/ekatizzz/lab3_java) 🚕 — Autonomous taxi management system developed using Java and object-oriented programming
 - [Java Lab 2](https://github.com/ekatizzz/lab2_java) 🌲 — Implementation of data structures including Trie, Graph and a custom List in Java
 - [Java Lab 1](https://github.com/ekatizzz/lab1_java) ✅ — To-Do List application for task management
+- [TCP Server & Client](https://github.com/ekatizzz/tcp-server-cpp) 🔌 — Multithreaded TCP server and client in C++: POSIX sockets, pthreads, message framing and persistent chat history
+- [My Collection](https://github.com/ekatizzz/python) 📚 — Django web application for a personal book and movie catalog: authentication, CRUD operations, genres, filtering and sorting
 </details>
 
 #### Hackathons 🏆
