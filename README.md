@@ -1,58 +1,52 @@
-[![Telegram](https://img.shields.io/badge/Telegram-@ekatizzz-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ekatizzz)
-[![Email](https://img.shields.io/badge/Email-afanasyeva404%40mail.ru-D14836?style=flat&logo=gmail&logoColor=white)](mailto:afanasyeva404@mail.ru)
+ <p align="center">
+  <br/>
+  <a href="mailto:afanasyeva404@mail.ru">
+    <img src="https://img.shields.io/badge/email-%23B5838D?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://t.me/ekatizzz">
+    <img src="https://img.shields.io/badge/telegram-%237A9CC6?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <br/>
+</p>
 
-# Hi, I'm Katya! 👋
+I'm Katya, a 3rd-year student at **HSE University (Nizhny Novgorod)**, majoring in **Computer Science and Technologies**. I'm interested in software development, artificial intelligence, machine learning and digital product design. I enjoy building practical applications and combining engineering with creative problem-solving.
 
-I'm a 3rd-year Computer Science and Technologies student at **HSE University** with an interest in software development, artificial intelligence and digital product design.
+#### Recent Projects 🌱
 
-I enjoy building practical applications, exploring machine learning solutions and combining engineering with creative thinking.
+- [**Corporate Knowledge Assistant**](https://github.com/Yushhhik/CorporateKnowledgeAssistant) 🤖 — AI-powered corporate Telegram assistant developed for INNOGLOBALHACK 2026: RAG-based document search, LLM integration, feedback collection and interaction analytics  
+  [Repo](https://github.com/Yushhhik/CorporateKnowledgeAssistant) 💻
 
-### 🚀 Areas of Interest
+- [**Predicting the Next Product**](https://github.com/ekatizzz/Predicting_the_next_product) 🛒 — Session-based recommendation system: graph-based item transitions and next-product prediction — *Hit@10 0.5142 vs 0.384 baseline*  
+  [Repo](https://github.com/ekatizzz/Predicting_the_next_product) 💻
 
-- Software Development
-- Artificial Intelligence & Machine Learning
-- Data Analysis & Recommender Systems
-- iOS Development
-- Web Development & UI/UX Design
+- [**SEREVIA**](https://github.com/ekatizzz/serevia) 🧘 — iOS application for emotional well-being: psychological assessments, mood tracking, habit formation, mindfulness and on-device emotion classification using CoreML  
+  [Repo](https://github.com/ekatizzz/serevia) 💻
 
-### 🌱 Featured Projects
+- [**Green Loop**](https://github.com/ekatizzz/Exam-project-2026) 🌿 — AI-assisted architectural concept of a sustainable residential complex: generative design, vertical greenery, spatial planning and optimization  
+  [Repo](https://github.com/ekatizzz/Exam-project-2026) 💻
 
-- **[SEREVIA](https://github.com/ekatizzz/serevia)** 🧘 — iOS application for emotional well-being with psychological assessments, mood tracking, habit formation and on-device AI emotion classification using CoreML.
+#### More Projects 🌿
 
-- **[Predicting the Next Product](https://github.com/ekatizzz/Predicting_the_next_product)** 🛒 — Session-based recommendation system using graph-based item transitions to predict the next product in an e-commerce session.
+<details>
+<summary>More projects</summary>
 
-- **[Corporate Knowledge Assistant](https://github.com/Yushhhik/CorporateKnowledgeAssistant)** 🤖 — RAG-based Telegram assistant for searching corporate documentation, built with Python, FastAPI, Qdrant and LLM technologies. Developed as part of INNOGLOBALHACK 2026.
+- [Concept Project 2025](https://github.com/ekatizzz/Concept_Project_2025) 🏡 — Country house interior and architectural concept developed using generative design and 3D visualization
+- [Java Lab 3](https://github.com/ekatizzz/lab3_java) 🚕 — Autonomous taxi management system developed using Java and object-oriented programming
+- [Java Lab 2](https://github.com/ekatizzz/lab2_java) 🌲 — Implementation of data structures including Trie, Graph and a custom List in Java
+- [Java Lab 1](https://github.com/ekatizzz/lab1_java) ✅ — To-Do List application for task management
+</details>
 
-- **[Green Loop](https://github.com/ekatizzz/Exam-project-2026)** 🌿 — AI-assisted architectural concept of a sustainable residential complex with vertical greenery, spatial optimization and generative design.
+#### Hackathons 🏆
 
-- **[Concept Project 2025](https://github.com/ekatizzz/Concept_Project_2025)** 🏡 — Country house interior and architectural concept developed using generative design and 3D visualization tools.
+- **INNOGLOBALHACK 2026 (Innopolis)** — BARS Group challenge: Corporate Telegram Assistant. Developed an AI-powered RAG assistant for answering employee questions based on internal corporate documentation.
 
-### 🏆 Hackathons
+  **My role: Bot API Developer**
+  - Developed Telegram bot functionality using Python and aiogram 3.
+  - Implemented handlers, commands, inline keyboards and FSM-based interactions.
+  - Integrated the bot with the backend API.
+  - Designed user interaction flows and handled edge cases for messages, files and voice inputs.
+  - Developed interaction analytics, feedback collection and usage statistics.
 
-**INNOGLOBALHACK 2026** — Project: BARS Assistant — Corporate RAG Assistant
-
-## MY TECH STACK 🛠️
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-### 🎓 Education
-
-**HSE University**  
-Computer Science and Technologies  
-2024 — Present
-
-### 📫 Let's Connect
-
-- GitHub: [@ekatizzz](https://github.com/ekatizzz)
+| <b align="left">MY TECH STACK 🔧</b> |
+|---|
+| ![Python](https://img.shields.io/badge/Python-white?style=flat&logo=python) ![Java](https://img.shields.io/badge/Java-white?style=flat&logo=openjdk&logoColor=%23464547) ![Swift](https://img.shields.io/badge/Swift-white?style=flat&logo=swift) ![C++](https://img.shields.io/badge/C++-white?style=flat&logo=cplusplus&logoColor=%2300599C) ![SQL](https://img.shields.io/badge/SQL-white?style=flat&logo=postgresql) ![FastAPI](https://img.shields.io/badge/FastAPI-white?style=flat&logo=fastapi) ![Django](https://img.shields.io/badge/Django-white?style=flat&logo=django&logoColor=%23092E20) ![aiogram](https://img.shields.io/badge/aiogram-white?style=flat&logo=telegram&logoColor=%2326A5E4) ![CoreML](https://img.shields.io/badge/CoreML-white?style=flat&logo=apple&logoColor=black) ![UIKit](https://img.shields.io/badge/UIKit-white?style=flat&logo=apple&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=postgresql) ![Redis](https://img.shields.io/badge/Redis-white?style=flat&logo=redis) ![Docker](https://img.shields.io/badge/Docker-white?style=flat&logo=docker) ![Git](https://img.shields.io/badge/Git-white?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=black) ![Xcode](https://img.shields.io/badge/Xcode-white?style=flat&logo=xcode) ![Figma](https://img.shields.io/badge/Figma-white?style=flat&logo=figma) ![Tilda](https://img.shields.io/badge/Tilda-white?style=flat&logo=tilda&logoColor=black) |
