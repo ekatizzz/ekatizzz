@@ -41,7 +41,7 @@ I'm Katya, a 3rd-year student at **HSE University (Nizhny Novgorod)**, majoring 
 #### Hackathons 🏆
 
 - **INNOGLOBALHACK 2026 (Innopolis)** — BARS Group challenge: Corporate Telegram Assistant. Developed an AI-powered RAG assistant for answering employee questions based on internal corporate documentation.
-  📜 [View Certificate](https://github.com/Yushhhik/CorporateKnowledgeAssistant/blob/main/docs/certificates/innoglobalhack-2026.pdf)
+  📜 [View Certificate](https://github.com/ekatizzz/CorporateKnowledgeAssistant/blob/main/docs/certificates/innoglobalhack-2026.pdf)
 
   **My role: Bot API Developer**
   - Developed Telegram bot functionality using Python and aiogram 3.
