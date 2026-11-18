@@ -26,33 +26,45 @@ I enjoy building practical applications, exploring machine learning solutions an
 
 ### 🏆 Hackathons
 
-**INNOGLOBALHACK 2026** — HSE University
-
-**Project: BARS Assistant — Corporate RAG Assistant**
-
-Participated in a team hackathon focused on developing an AI-powered first-line support assistant for corporate employees.
+**INNOGLOBALHACK 2026** — Project: BARS Assistant — Corporate RAG Assistant
 
 ### 💻 Tech Stack
 
 **Programming Languages**
 
-Python · Java · Swift · SQL · C++
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend & Data**
+**Backend & Databases**
 
-FastAPI · Django · PostgreSQL · Redis · Qdrant · SQLAlchemy
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 
 **AI & Machine Learning**
 
-CoreML · Recommender Systems · RAG · LLM · Data Analysis
+![CoreML](https://img.shields.io/badge/Core_ML-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Python](https://img.shields.io/badge/Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **iOS Development**
 
-UIKit · XCTest · AVFoundation · MVC
+![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+![XCTest](https://img.shields.io/badge/XCTest-147EFB?style=for-the-badge&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
-**Tools & Platforms**
+**Tools & Design**
 
-Git · GitHub · Docker · Xcode · Figma · Tilda
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Tilda](https://img.shields.io/badge/Tilda-000000?style=for-the-badge&logo=tilda&logoColor=white)
 
 ### 🎓 Education
 
